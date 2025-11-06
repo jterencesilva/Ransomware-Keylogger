@@ -26,3 +26,10 @@
    python3 checksum_monitor.py check /caminho/para/sandbox     # detecta alterações
    python3 simulate_ransom_safe.py --restore /caminho/para/sandbox # restaura usando manifesto
    python3 simulate_keylogger_generator.py /caminho/para/sandbox # gera log sintético
+
+## Contato ##
+Autor: Jose Augusto Terence
+
+Repo: https://github.com/jterencesilva/Ransomware-Keylogger
+
+E-mail: jterencesilva@gmail.com
