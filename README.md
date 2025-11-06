@@ -12,7 +12,6 @@
 - `simulate_ransom_safe.py` — **simulação segura**: renomeia arquivos (marca como "ENCRYPTED_SIM") e gera manifesto JSON para restauração.
 - `simulate_keylogger_generator.py` — gera um arquivo de log de teclas sintético (sem capturar teclas reais).
 - `checksum_monitor.py` — monitora integridade via checksums e detecta alterações.
-- `images/` — capturas de tela de experimentos.
 
 ## Como executar (passos seguros)
 1. Crie uma VM isolada e faça snapshot.
